@@ -1,3 +1,3 @@
 # Expending-Cards
-# web url Live
+# See Live website
 https://expendingcard.netlify.app/
